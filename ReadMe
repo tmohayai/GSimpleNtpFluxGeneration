@@ -1,4 +1,4 @@
-The sample scripts in this repository can be used to generate gsimple files from dk2nus. The samples are specifically for generating rock gsimple files but one can also use them to generate gsimple files in other detector or near detector hall volumes.
+The sample scripts in this repository can be used to generate gsimple files from dk2nus. The sample scripts are specifically for generating rock gsimple files but one can also use them to generate gsimple files in other detector or near detector hall volumes.
 
 Before generating gsimple files, run the setup script, setup.sh. A request file is needed. rock.request is the request file. To process the request file on the FNAL grid, use the run.sh is bash script.
 
